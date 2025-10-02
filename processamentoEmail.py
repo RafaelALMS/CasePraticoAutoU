@@ -5,7 +5,7 @@ from pathlib import Path
 from pydantic import BaseModel
 import os
 
-PROMPTXML= Path("backEnd/prompt.xml")
+PROMPTXML= Path("prompt.xml")
 
 CLIENT = genai.Client(api_key=os.environ['GEMINI_API_KEY'])
 
