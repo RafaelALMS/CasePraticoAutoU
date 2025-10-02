@@ -1,0 +1,12 @@
+<email>
+    <document id="A">
+    </document>
+    <question>
+        <question doc_ref="A">Is this email producitve or  informative from an fanantial intitution perspective? If yes could you make bullet points of the most productive ideas that this email has</question>
+    </question>
+    <expected_output_format>
+        <generated_summary>[A Sumery of the email, with the main point]</generated_summary>
+        <generated_BulletList>[A concise list of bullet points here]</generated_BulletList>
+    </expected_output_format>
+</email>
+
